@@ -26,7 +26,7 @@ Inteligência Artificial: Uma Abordagem Moderna.
 ## 🛠️ Tecnologias
 
 - Python
-- Git 
+- Git  
 - GitHub
 
 ## 📖 Progresso dos estudos
